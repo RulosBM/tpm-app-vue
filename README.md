@@ -1,44 +1,48 @@
-# task-manager-vue
+🚀 Task Manager Pro
 
-This template should help get you started developing with Vue 3 in Vite.
+Aplicación web de gestión de tareas desarrollada con Vue 3 + Vite.
 
-## Recommended IDE Setup
+Permite crear, organizar y administrar tareas de forma simple y rápida. Este proyecto fue desarrollado como práctica de frontend moderno y gestión de estado en Vue.
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+✨ Funcionalidades 
+✅ Crear nuevas tareas 
+✔ Marcar tareas como completadas 
+🗑 Eliminar tareas 
+🔍 Filtrar tareas (Todas / Pendientes / Completadas) 
+💾 Guardado automático con LocalStorage 
+📱 Diseño responsive 
+⚡ Construido con Vue 3 + Vite 
+🛠 Tecnologías utilizadas Vue 3 (Composition API) Vite JavaScript CSS LocalStorage 
+📷 Demo
 
-## Recommended Browser Setup
+Podés probar la aplicación aquí:
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+https://TU-LINK-VERCEL.vercel.app 
+📂 Instalación y uso
 
-## Customize configuration
+Clonar el repositorio:
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+git clone https://github.com/RulosBM/tpm-manager-vue.git
 
-## Project Setup
+Entrar al proyecto:
 
-```sh
+cd task-manager-vue
+
+Instalar dependencias:
+
 npm install
-```
 
-### Compile and Hot-Reload for Development
+Ejecutar el servidor de desarrollo:
 
-```sh
-npm run dev
-```
+npm run dev 📈
 
-### Compile and Minify for Production
+Futuras mejoras 
+🌙 Dark Mode 
+📅 Integración con calendario 
+🔔 Recordatorios de tareas 
+📱 Convertir en PWA (App instalable) 
 
-```sh
-npm run build
-```
+👨‍💻 Autor
+Proyecto desarrollado por Bruno Monzoni
 
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+GitHub: https://github.com/RulosBM
